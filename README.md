@@ -1,4 +1,4 @@
-# MiscTools
+# MiscLinuxTools
 UbuntuTools
 The goal of this repository is to create tools/utilities that would help user maintain system health better. 
 
